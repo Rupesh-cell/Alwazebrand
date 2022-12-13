@@ -1,0 +1,36 @@
+@font-face {
+  font-family: inter;
+  src: url(/Users/allendev/Desktop/Alwazebrand/alwazebrand/src/Font/Inter-VariableFont_slnt,wght.ttf);
+}
+/**********************************/
+
+/* Footer css starts here*/
+.footer {
+  background-color: inherit;
+  display: flex;
+  width: 100%;
+  max-width: 1440px;
+}
+
+.footer-left {
+  flex: 1;
+  padding: 40px 40px;
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+.footer-left a {
+  padding: 10px;
+  text-decoration: none;
+}
+.footer-right {
+  flex: 2;
+  text-align: right;
+  padding: 40px 40px;
+}
+.footer-right a {
+  padding: 10px;
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+}

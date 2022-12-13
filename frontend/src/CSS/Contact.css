@@ -1,0 +1,168 @@
+
+*{font:inter;
+}
+
+  
+  .Hey{
+     
+      margin-top: 131px;
+      display: flex;
+      flex-wrap: wrap;
+      width: 100%;
+      padding-bottom: 30px;
+     
+  }
+  .H{
+    
+    
+    font-size:36px;
+    flex: 60%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+
+  }
+  .Intrested{
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(0, 0, 0, 0.5); 
+    flex: 40%;
+  }
+  .image{
+   width: 100%;
+   height: 100%;
+    
+  }
+  .image img{
+    width: 100%;
+  }
+  .lw-txt{
+    margin-top:141px ;
+    display: flex;
+    
+
+  }
+  .h{
+    flex: 1;
+  }
+  .det{
+    width: 580px;
+    height:44px;
+    font-size:18px;
+    color: #00000080;
+    margin-top: 8px;
+    
+  }
+
+  .underline{
+
+    text-decoration: underline;
+  }
+  .details{
+    
+    
+  }
+  
+  .info{
+    font-size:18px;
+    color: #00000080;
+    margin-top: 8px;
+    padding-left:8px; ;
+  }
+  .Form-fill{
+  
+  }
+  .Form-fill input{
+    padding: 0% 10px;
+    font-size: 18px;
+  }
+  
+
+
+  
+  .Name{
+    width: 100%;
+    display:flex;
+    font-size: 18px;
+    
+  }
+
+  .f{
+    margin-right: 27px;
+
+  }
+  .fc{
+    width: 275px;
+    height: 48px;
+    
+
+  }
+  .fd{
+    width: 275px;
+    height: 48px;
+    
+    
+
+  }
+  .em{
+    width: 585px;
+    height: 48px;
+    
+  }
+  .num{
+    width: 585px;
+    height: 48px;
+   
+
+  }
+  .op{
+    width: 585px;
+    height: 48px;
+    
+  }
+  .ind{
+    width: 585px;
+    height: 48px;
+  }
+  .find{
+    width: 585px;
+    height: 48px;
+  }
+  select{
+    padding:0% 10px;
+    font-size: 18px;
+    
+  }
+ 
+  .Work{
+    width: 585px;
+    height: 48px;
+    
+  }
+  .txta{
+    width: 585px;
+    height: 160px;
+    font-size: 18px;
+  }
+  .btn
+{
+    background: black;
+    width: 174px;
+    height: 54px;
+    color: #ffffff;
+    padding: 16px 24px 16px 24px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+}
+.btn:hover{
+  background-color: #ffffff;
+  color: black;
+}
+  

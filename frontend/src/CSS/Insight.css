@@ -1,0 +1,75 @@
+
+  .Insights {
+      font-size:48px;
+      margin-left:  50px;
+      margin-top: 141px;
+      font-weight: 600;
+  }
+  .filter{
+      
+
+      margin-left: 30px;
+      margin-top: 28px;
+  }
+
+.filter a{
+      
+      color: #000;
+      padding:20px;
+      text-decoration: none;
+      font-size:18px;
+
+  }
+  .container{
+    background-color: #ffffff;
+    font-size: 12px;
+    margin-left:  34px;
+    
+  
+  }
+  
+  .container{
+    width: auto;
+    display: flex;
+    margin-top: 46px;
+    flex-flow: row wrap;
+    
+  }
+  
+   .card {
+   
+  padding: 16px;
+  }
+  
+  .container-1{
+    background-color: #ffffff;
+    font-size: 12px;
+    
+    margin-left:  34px;
+  }
+  
+  .container-1{
+    width: auto;
+    width: auto;
+    display: flex;
+    margin-top: 46px;
+    flex-flow: row wrap;
+    
+  }
+
+  .work-talk{
+      
+      font-size:  36px;
+      text-align: center;
+      margin-top: 130px;
+      
+  }
+  .work-talk a{
+    
+    font-size:  36px;
+    color: #000;
+}
+img:hover{
+  opacity: 0.8;
+  transition: 0.5s;
+}

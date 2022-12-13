@@ -1,0 +1,199 @@
+
+*{font:inter;
+}
+
+  
+  .container{
+    background-color: #ffffff;
+    font-size: 12px;
+  }
+
+  .container{
+    width: auto;
+    display: flex;
+    margin-top: 46px;
+    flex-flow: row wrap;
+    
+  }
+    .top-text {
+        width: 790px;
+        height: 74px;
+        margin-top: 24px;
+        margin-left: 310px;
+
+    }
+    .Process{
+     margin-top: 152px;
+     margin-left: 310px;
+    }
+    .Heading {
+        font-size:36px; 
+        margin-bottom: 8px;
+    }
+    
+
+    .Name-date{
+      font-size: 18px;
+      margin-top:8px;
+    }
+    
+    .Process{
+        font-size:18px;
+
+    }
+    .Discri{
+        font-size: 18px;
+        width: 793px;
+        height: 200px;
+        margin-left: 310px;
+        margin-top: 56px;
+
+    }
+    .img{
+    margin-top: 27px;
+    width:auto;
+
+    }
+    .bottom-text{
+        width:793px;
+        height:425px;
+        margin-left: 310px;
+        margin-top: 42px;
+        font-size: 18px;
+    }
+  
+ 
+ 
+  
+
+  
+
+
+  .work-talk{
+      
+      font-size:  36px;
+      text-align: center;
+      margin-top: 130px;
+      
+  }
+  .work-talk a{
+    
+    font-size:  36px;
+    color: #000;
+}
+
+
+
+@media (max-width:1400px){
+ 
+  .HeadingText{
+    width: 100%;
+    margin-top: 150px;
+    padding: 0 25px;
+  }
+  .Process{
+    margin: 0%;
+  }
+  .top-text{
+    margin: 0%;
+    width: 100%;
+  }
+  .Name-date{
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+  }
+
+  .Discri{
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+    margin-top: 150px;
+    padding: 0 25px;
+  }
+  .Discri > p{
+    width: 100%;
+    height: 100%;
+  }
+  .img img{
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    padding: 0 25px;
+    
+  }
+  .imgBx img{
+    width: 100%;
+  }
+
+  .img{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    
+  }
+  .bottom-text{
+    margin: 0%;
+    width: 100%;
+    padding: 0 25px;
+  }
+  .challenge{
+    width: 100%;
+  }
+  .Conclusion{
+    width: 100%;
+    
+  }
+  .Insights{
+    margin: 0%;
+    margin-top: 80%;
+    font-size: 36px;
+    padding: 0 25px;
+  }
+  .container{
+    margin: 0%;
+    width: 100%;
+    overflow: hidden;
+  }
+  .card{
+    padding: 0%;
+    
+  }
+  .imgBx{
+    padding: 0 25px;
+  }
+  
+  .work-talk{
+    margin: 0%;
+    font-size: 24px;
+    
+    width: 100%;
+    margin-top: 100px;
+  }
+  .work-talk > p{
+    margin: 0%;
+    padding: 0%;
+  }
+  footer {
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+  }
+  .footer{
+    display: grid;
+    width: 100%;
+  }
+  .footer-left{
+    padding:0%;
+    
+    padding: 0%;
+
+  }
+  .footer-right{
+    padding: 0%;
+    text-align: left;
+  }
+  .footer-right ul{
+    display: grid;
+  }
+}
